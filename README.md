@@ -2,6 +2,10 @@
 ## News.
 - **[2024/11/22]** Repository created.
 
+3DSceneEditor proposes a 3D-only paradigm called 3DSceneEditor for controllable complex scene editing based on Gaussian Splatting.
+
+![teaser](./assets/teaser.png)
+
 ## Code
 
 The code will be released after the paper is accepted.
