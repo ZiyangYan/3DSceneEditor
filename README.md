@@ -4,7 +4,7 @@
 
 3DSceneEditor proposes a 3D-only paradigm called 3DSceneEditor for controllable complex scene editing based on Gaussian Splatting.
 
-![teaser](./assets/teaser.png)
+![teaser](./assets/motivation_final.png)
 
 ## Code
 
