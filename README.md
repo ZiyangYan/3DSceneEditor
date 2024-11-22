@@ -1,10 +1,12 @@
 # 3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting
-## News.
-- **[2024/11/22]** Repository created.
 
+## Introduction.
 3DSceneEditor proposes a 3D-only paradigm called 3DSceneEditor for controllable complex scene editing based on Gaussian Splatting.
 
 ![teaser](./assets/motivation_final.png)
+
+## News.
+- **[2024/11/22]** Repository created.
 
 ## Code
 
