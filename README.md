@@ -34,11 +34,11 @@
             <span class="author-block"><sup>2</sup>University of Trento, </span>
             <span class="author-block"><sup>3</sup>University of Washington, </span>
             <br>
-            <span class="author-block"><sup>3</sup>University of Washington, </span>
-            <span class="author-block"><sup>4</sup>University of Science and Technology Beijing, </span>
+            <span class="author-block"><sup>4</sup>University of Copenhagen, </span>
+            <span class="author-block"><sup>5</sup>University of Science and Technology Beijing, </span>
             <br>
-            <span class="author-block"><sup>5</sup>Fancy Tech, </span>
-            <span class="author-block"><sup>6</sup>Tsinghua University</span>
+            <span class="author-block"><sup>6</sup>Fancy Tech, </span>
+            <span class="author-block"><sup>7</sup>Tsinghua University</span>
         </p>
 
 </p>
