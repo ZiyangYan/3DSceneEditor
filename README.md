@@ -10,22 +10,22 @@
             <span class="author-block">
               <a href="https://ziyangyan.github.io/">Ziyang Yan</a><sup>1,2</sup>,</span>
             <span class="author-block">
-              <a href="https://scholar.google.com.hk/citations?hl=en&user=DOyVxx0AAAAJ&view_op=list_works&sortby=pubdate/">Lei Li</a><sup>3</sup>,</span>
+              <a href="https://scholar.google.com.hk/citations?hl=en&user=DOyVxx0AAAAJ&view_op=list_works&sortby=pubdate/">Lei Li</a><sup>3,4</sup>,</span>
             <span class="author-block">
-              <a href="https://www.researchgate.net/scientific-contributions/Yihua-Shao-2292713829/">Yihua Shao</a><sup>4</sup>,
+              <a href="https://www.researchgate.net/scientific-contributions/Yihua-Shao-2292713829/">Yihua Shao</a><sup>5</sup>,
             </span>
             <span class="author-block">
-              <a href="https://scholar.google.com/citations?user=0Z63-MAAAAAJ&hl=en/">Siyu Chen</a><sup>4</sup>,
+              <a href="https://scholar.google.com/citations?user=0Z63-MAAAAAJ&hl=en/">Siyu Chen</a><sup>5</sup>,
             </span>
             <span class="author-block">
-              <a href="https://scholar.google.com/citations?user=xevH6nEAAAAJ&hl=en/">Zongkai Wu</a><sup>5</sup>, 
+              <a href="https://scholar.google.com/citations?user=xevH6nEAAAAJ&hl=en/">Zongkai Wu</a><sup>6</sup>, 
             </span>
             <br>
             <span class="author-block">
               <a href="https://people.ece.uw.edu/hwang/">Jenq-Neng Hwang</a><sup>3</sup>,
             </span>
             <span class="author-block">
-              <a href="https://sites.google.com/view/fromandto">Hao Zhao</a><sup>6</sup>,
+              <a href="https://sites.google.com/view/fromandto">Hao Zhao</a><sup>7</sup>,
             </span>
             <span class="author-block">
               <a href="https://3dom.fbk.eu/people/profile/remondino">Fabio Remondino</a><sup>1</sup></span>
@@ -34,7 +34,9 @@
             <span class="author-block"><sup>2</sup>University of Trento, </span>
             <span class="author-block"><sup>3</sup>University of Washington, </span>
             <br>
+            <span class="author-block"><sup>3</sup>University of Washington, </span>
             <span class="author-block"><sup>4</sup>University of Science and Technology Beijing, </span>
+            <br>
             <span class="author-block"><sup>5</sup>Fancy Tech, </span>
             <span class="author-block"><sup>6</sup>Tsinghua University</span>
         </p>
