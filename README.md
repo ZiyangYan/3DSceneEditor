@@ -65,9 +65,10 @@ The code will be released after the paper is accepted.
 If you find this project helpful, please consider citing the following paper:
 ```
 @article{huang2024gaussian,
-    title={GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction},
-    author={Huang, Yuanhui and Zheng, Wenzhao and Zhang, Yunpeng and Zhou, Jie and Lu, Jiwen},
-    journal={arXiv preprint arXiv:2405.17429},
+    title={3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting},
+    author={Ziyang Yan, Lei Li, Yihua Shao, Siyu Chen, Wuzong Kai, Jenq-Neng Hwang, Hao Zhao, Fabio Remondino},
+    journal={arXiv preprint arXiv:2412.01583
+},
     year={2024}
 }
 ```
