@@ -2,7 +2,7 @@
 
 This is the repository that contains source code for the [3DSceneEditor website](https://ziyangyan.github.io/3DSceneEditor/).
 
-If you find Nerfies useful for your work please cite:
+If you find 3DSceneEditor useful for your work please cite:
 ```
 @article{yan20243DScene,
     title={3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting},
