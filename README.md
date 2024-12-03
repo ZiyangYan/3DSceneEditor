@@ -4,11 +4,11 @@ This is the repository that contains source code for the [3DSceneEditor website]
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{yan20243DScene,
+    title={3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting},
+    author={Ziyang Yan, Lei Li, Yihua Shao, Siyu Chen, Wuzong Kai, Jenq-Neng Hwang, Hao Zhao, Fabio Remondino},
+    journal={arXiv preprint arXiv:2412.01583},
+    year={2024}
 }
 ```
 
