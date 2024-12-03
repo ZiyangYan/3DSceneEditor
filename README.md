@@ -54,6 +54,7 @@
 ![teaser](./assets/motivation_final.png)
 
 ## News.
+- **[2024/12/3]** arxiv paper published.
 - **[2024/11/22]** Repository created.
 
 ## Code
