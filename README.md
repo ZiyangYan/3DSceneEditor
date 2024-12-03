@@ -64,7 +64,7 @@ The code will be released after the paper is accepted.
 
 If you find this project helpful, please consider citing the following paper:
 ```
-@article{huang2024gaussian,
+@article{yan20243DScene,
     title={3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting},
     author={Ziyang Yan, Lei Li, Yihua Shao, Siyu Chen, Wuzong Kai, Jenq-Neng Hwang, Hao Zhao, Fabio Remondino},
     journal={arXiv preprint arXiv:2412.01583},
