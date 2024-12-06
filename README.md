@@ -4,11 +4,11 @@ This is the repository that contains source code for the [3DSceneEditor website]
 
 If you find 3DSceneEditor useful for your work please cite:
 ```
-@article{yan20243DScene,
-    title={3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting},
-    author={Ziyang Yan, Lei Li, Yihua Shao, Siyu Chen, Wuzong Kai, Jenq-Neng Hwang, Hao Zhao, Fabio Remondino},
-    journal={arXiv preprint arXiv:2412.01583},
-    year={2024}
+@article{yan20243dsceneeditor,
+  title={3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting},
+  author={Yan, Ziyang and Li, Lei and Shao, Yihua and Chen, Siyu and Kai, Wuzong and Hwang, Jenq-Neng and Zhao, Hao and Remondino, Fabio},
+  journal={arXiv preprint arXiv:2412.01583},
+  year={2024}
 }
 ```
 
