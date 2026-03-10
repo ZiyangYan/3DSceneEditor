@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<a href='https://arxiv.org/abs/2412.01583'><img src='https://img.shields.io/badge/arXiv-2412.01583-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://openaccess.thecvf.com/content/WACV2026/html/Yan_3DSceneEditor_Controllable_3D_Scene_Editing_with_Gaussian_Splatting_WACV_2026_paper.html'><img src='https://img.shields.io/badge/arXiv-2412.01583-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://ziyangyan.github.io/3DSceneEditor/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
@@ -56,6 +56,7 @@
 ![teaser](./assets/motivation_final.png)
 
 ## News.
+- **[2026/10/3]** paper published in WACV 2026.
 - **[2024/12/3]** arxiv paper published.
 - **[2024/11/22]** Repository created.
 
